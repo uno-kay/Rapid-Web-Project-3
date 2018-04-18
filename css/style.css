@@ -16,9 +16,7 @@ a {text-decoration: none; color: #fff; transition: all 0.1s ease-in;}
 img {border: 0;}
 
 
-.body-custom{
-    background-image: linear-gradient(to right bottom, #051937, #004468, #00738d, #00a5a1, #5ad5a5);
-}
+
 
 
 body {
@@ -27,9 +25,6 @@ body {
 	font-family: 'PT Sans Narrow', sans-serif;
 	font-size: 13px;
 	font-weight: 300;
-}
-.body-custom{
-    background-image: linear-gradient(to right bottom, #051937, #004468, #00738d, #00a5a1, #5ad5a5);
 }
 
 .clear {clear: both;}
@@ -74,7 +69,7 @@ body {
 
 #speakers {
 	padding: 60px 0;
-	background: #4593e3;
+	background-image: linear-gradient(to right bottom, #051937, #004468, #00738d, #00a5a1, #5ad5a5);
 	text-align: center;	
 }
 
